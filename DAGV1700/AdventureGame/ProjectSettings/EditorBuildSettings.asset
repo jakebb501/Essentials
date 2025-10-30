@@ -14,6 +14,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ClassExamples/Unit 9 UI/Level1.unity
     guid: 5e6acbb99e42144d885b817fb6bb9264
+  - enabled: 1
+    path: Assets/Scenes/ClassExamples/Unit 9 UI/startjb.unity
+    guid: 1a37161260fe4774aa896c2579b41ac8
+  - enabled: 1
+    path: Assets/Scenes/ClassExamples/Unit 9 UI/Level1jb.unity
+    guid: 42f999b0829dddc45a2291b9b679631a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
